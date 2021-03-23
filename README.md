@@ -7,6 +7,12 @@
 
 Record image iterations through any loop and output a gif
 
+## Installation
+
+```bash
+pip install gif_writer
+```
+
 ## Usage
 
 ```python
