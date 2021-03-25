@@ -21,7 +21,7 @@ from gif_writer import GifWriter
 
 ## Example
 
-When you're iterating through images, maybe you'd like to have a better intuitive feel for how your code is operating.
+When iterating through images, it can be nice to have an intuitive feel for how your code is operating.
 
 In this example, we can examine the step-by-step output of loop that applies a basic gaussian blur.
 
@@ -37,5 +37,7 @@ In this example, we can examine the step-by-step output of loop that applies a b
 
 <!-- ![](./docs/out1.gif) -->
 
-![](./docs/frog-small.jpg)
-![](./docs/out2.gif)
+<p align="center">
+<img align="center" src="./docs/frog-small.jpg"></img>
+<img align="center" src="./docs/crop.gif"></img>
+</p>
